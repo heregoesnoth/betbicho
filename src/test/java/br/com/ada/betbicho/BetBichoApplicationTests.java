@@ -1,10 +1,10 @@
-package br.com.ada.jogobicho;
+package br.com.ada.betbicho;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JogoBichoApplicationTests {
+class BetBichoApplicationTests {
 
 	@Test
 	void contextLoads() {
